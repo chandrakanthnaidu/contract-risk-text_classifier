@@ -115,6 +115,5 @@ Stored in `gs://contract-risk-classifier/artifacts/`
 
 ---
 
-## License
-MIT License / Custom Commercial Use Pending
+
 
